@@ -1,0 +1,3 @@
+rootProject.name = "openweatherapp"
+include ':app'
+include ':openweatherlibrary'

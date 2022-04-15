@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="degreeCalsius">°C</string>
+    <string name="degreeCelsius">°C</string>
+    <string name="degreeFahrenheit">°F</string>
+    <string name="select_unit">Select Unit</string>
+</resources>
